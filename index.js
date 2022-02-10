@@ -14,6 +14,10 @@ app.get('/', (req, res) => {
     res.sendFile(static_dir);
 });
 
+app.get('/status', (req, res) => {
+    res.send(res.statusCode);
+});
+
 app.listen(port, () => {
     console.log(`Server is ready~~ http://localhost:${port}`);
 });
