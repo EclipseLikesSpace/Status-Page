@@ -1,0 +1,29 @@
+{
+  "name": "eclipses-status-page",
+  "version": "1.0.0",
+  "description": "Status page for all of his websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EclipseLikesSpace/Status-Page.git"
+  },
+  "keywords": [
+    "status",
+    "page"
+  ],
+  "author": "EclipseLikesSpace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EclipseLikesSpace/Status-Page/issues"
+  },
+  "homepage": "https://github.com/EclipseLikesSpace/Status-Page#readme",
+  "devDependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
