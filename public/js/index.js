@@ -1,7 +1,7 @@
 const links = [
-    {label: "Webpage", url: "http://127.0.0.1:4040"},
-    //{label: "Schematell API", url: "http://api.schematell.up.railway.app"},
-    //{label: "Schematell", url: "http://schematell.up.railway.app"},
+    //{label: "Webpage", url: "http://127.0.0.1:4040"},
+    {label: "Schematell API", url: "http://api.schematell.up.railway.app"},
+    {label: "Schematell", url: "http://schematell.up.railway.app"},
 ]
 
 function div(name, status, quote, isError){
