@@ -1,0 +1,44 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css");
+
+* {
+    font-family: "Cascadia Code", sans-serif;
+    color: #F8F8F2;
+}
+
+html {
+    background-color: #272822;
+}
+
+h1 {
+    background-color: #272822;
+}
+
+p {
+    background-color: #272822;
+}
+
+#content {
+    background-color: #272822;
+}
+
+.container {
+    border-style: solid;
+    border-color: #F8F8F2;
+    border-radius: 25px;
+    width: 25rem;
+    background-color: #272822;
+}
+
+.container > h1 {
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+.container > img {
+    background-color: #272822;
+    display: inline;
+    float: right;
+    margin-top: -5rem;
+    width: 5rem;
+    background-color: transparent;
+}
