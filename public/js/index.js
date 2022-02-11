@@ -1,5 +1,5 @@
 const links = [
-    {label: "Status Page...", url: "https://eclipse-status.up.railway.app/"},
+    {label: "eclips-e.space", url: "https://eclips-e.space/"},
     {label: "Schematell API", url: "https://api.schematell.up.railway.app"},
     {label: "Schematell", url: "https://schematell.up.railway.app"},
 ]
